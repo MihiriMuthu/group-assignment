@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-21T22:17:27 IST" name="Default suite" finished-at="2021-04-21T22:17:33 IST" duration-ms="6220">
+    <groups>
+    </groups>
+    <test started-at="2021-04-21T22:17:27 IST" name="Default test" finished-at="2021-04-21T22:17:33 IST" duration-ms="6220">
+      <class name="TestPack.GroupAssignment">
+        <test-method signature="loadAssignment()[pri:0, instance:TestPack.GroupAssignment@3f56875e]" started-at="2021-04-21T22:17:27 IST" name="loadAssignment" finished-at="2021-04-21T22:17:30 IST" duration-ms="2547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadAssignment -->
+        <test-method signature="passValuesAndCheckMandatoryFields()[pri:1, instance:TestPack.GroupAssignment@3f56875e]" started-at="2021-04-21T22:17:30 IST" name="passValuesAndCheckMandatoryFields" finished-at="2021-04-21T22:17:33 IST" duration-ms="3255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passValuesAndCheckMandatoryFields -->
+        <test-method signature="emailValidation()[pri:3, instance:TestPack.GroupAssignment@3f56875e]" started-at="2021-04-21T22:17:33 IST" name="emailValidation" finished-at="2021-04-21T22:17:33 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailValidation -->
+        <test-method signature="checkCurrentMedications()[pri:4, instance:TestPack.GroupAssignment@3f56875e]" started-at="2021-04-21T22:17:33 IST" name="checkCurrentMedications" finished-at="2021-04-21T22:17:33 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCurrentMedications -->
+        <test-method signature="validateSSN()[pri:5, instance:TestPack.GroupAssignment@3f56875e]" started-at="2021-04-21T22:17:33 IST" name="validateSSN" finished-at="2021-04-21T22:17:33 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSSN -->
+        <test-method signature="validateContactNoText()[pri:6, instance:TestPack.GroupAssignment@3f56875e]" started-at="2021-04-21T22:17:33 IST" name="validateContactNoText" finished-at="2021-04-21T22:17:33 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactNoText -->
+        <test-method signature="validateMainHeading()[pri:7, instance:TestPack.GroupAssignment@3f56875e]" started-at="2021-04-21T22:17:33 IST" name="validateMainHeading" finished-at="2021-04-21T22:17:33 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMainHeading -->
+        <test-method signature="validateSubHeading()[pri:8, instance:TestPack.GroupAssignment@3f56875e]" started-at="2021-04-21T22:17:33 IST" name="validateSubHeading" finished-at="2021-04-21T22:17:33 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSubHeading -->
+        <test-method signature="headingAvailability()[pri:9, instance:TestPack.GroupAssignment@3f56875e]" started-at="2021-04-21T22:17:33 IST" name="headingAvailability" finished-at="2021-04-21T22:17:33 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headingAvailability -->
+        <test-method signature="subHeadingAvailability()[pri:10, instance:TestPack.GroupAssignment@3f56875e]" started-at="2021-04-21T22:17:33 IST" name="subHeadingAvailability" finished-at="2021-04-21T22:17:33 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subHeadingAvailability -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestPack.GroupAssignment@3f56875e]" started-at="2021-04-21T22:17:33 IST" name="afterTest" finished-at="2021-04-21T22:17:33 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestPack.GroupAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
